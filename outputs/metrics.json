@@ -1,0 +1,8 @@
+{
+  "total": 7,
+  "intent_accuracy": 1.0,
+  "severity_accuracy": 1.0,
+  "review_flag_accuracy": 1.0,
+  "exact_match": 1.0,
+  "errors": []
+}
