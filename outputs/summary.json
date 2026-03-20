@@ -1,0 +1,10 @@
+{
+  "total_records": 7,
+  "remote_model_enabled": false,
+  "prompt_versions": {
+    "v1-base": 4,
+    "v2-risk-aware": 3
+  },
+  "review_queue_size": 2,
+  "review_queue_ratio": 0.2857
+}
