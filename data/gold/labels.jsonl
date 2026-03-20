@@ -1,0 +1,8 @@
+{"id":"t1","intent":"bug_report","severity":"high","needs_human_review":false}
+{"id":"t2","intent":"account_issue","severity":"high","needs_human_review":false}
+{"id":"t3","intent":"billing_issue","severity":"high","needs_human_review":false}
+{"id":"t4","intent":"feature_request","severity":"low","needs_human_review":false}
+{"id":"t5","intent":"general_question","severity":"low","needs_human_review":false}
+{"id":"t6","intent":"safety_risk","severity":"critical","needs_human_review":true}
+{"id":"t7","intent":"billing_issue","severity":"high","needs_human_review":true}
+
